@@ -1,2 +1,2 @@
 # hello-world
-a repository
+Hello buddys, This is Cheng, a student of ANLY 502-94
